@@ -30,8 +30,6 @@ $channel_id = "-100xxxxxxxxxx";
           \n/date (today's date)
           \n/dict <word> (Dictionary)
           \n/time (current time) 
-          \n/git <username> (Github User Info)
-          \n/repodl <username/repo_name> (Download Github Repository)
           \n/cryptorate
           \n/toss (Random Heads or Tails)
           \n/syt <query> (Search on Youtube)
