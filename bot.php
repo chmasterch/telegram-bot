@@ -24,7 +24,7 @@ $channel_id = "-100xxxxxxxxxx";
     if($message == "/cmds" || $message == "/cmds@github_rbot"){
         send_message($chat_id,$message_id, "
           /search <query> (Google search)
-          \n/bin <bin> (Bin Data)
+          \n/bin <bin> (8 Digit for Credit card Bin Data checking)
           \n/weather <name of your city> (Current weather Status)
           \n/dice <dice emoji>
           \n/date (today's date)
